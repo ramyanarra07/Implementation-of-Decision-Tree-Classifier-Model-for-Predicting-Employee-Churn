@@ -10,14 +10,19 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Algorithm
 
 STEP 1 . Start the program
+
 STEP 2 . attach the given data file
+
 STEP 3 . now find the satisfaction level of employee data
+
 STEP 4 .find the accuracy and new predict value
+
 STEP 5 . end the program
+
 
 ## Program:
 
-
+```
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: NARRA RAMYA
 RegisterNumber: 212223040128
@@ -47,7 +52,7 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
-
+```
 
 ## Output:
 ![Screenshot 2024-09-20 103740](https://github.com/user-attachments/assets/9d88a883-db85-4036-b3f8-3f27ce8dab33)
